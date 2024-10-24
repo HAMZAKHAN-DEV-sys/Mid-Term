@@ -1,0 +1,2 @@
+HTMLTableSectionElement
+HTMLDivElement;
